@@ -1,4 +1,4 @@
-###### *I’m sailor on the vast ocean of code*
+# *I’m sailor on the vast ocean of code*
 
 ## Hi I'm Bartek
 
@@ -25,7 +25,8 @@ How the coding journey looks like?
 Could you change waves for some bugs, storms for some big bug, sunsets and sunrises for that moments when you run your code and it works!
 Coding is my journey. The longest I have ever started and I really regret not having started this earlier, but hey it’s never to late to start something new. I’m not treating coding as a way to earn money. No! I have try many things other than software devolping but none of it was so inspiring, so facinating, so demanding that all levels of my couriosity just bloom like a flower. I’m constanly learning better coding. I think how to code better and, yes I’m saling through vast ocean of code. I will fail many times. I will makes bugs, bugs and bugs again and again. That’s the life. I’m coding and I love to do that.
 
-Most likely I'm using Python 
+Here You can find some stat of my Github account:
+[![Bartek's github stats](https://github-readme-stats.vercel.app/api?username=bartoszkobylinski)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bartoszkobylinski/bartoszkobylinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
