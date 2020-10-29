@@ -10,16 +10,23 @@ As I’m going through github repositories almost everywhere is nothing about au
 
 ### Let me tell my story
 
-One of my biggest hobby is sailing. I am a sailor… I have a small boat and I’m sailing on it. What it learns me…
+One of my biggest hobby is sailing. I am a sailor… I have a small boat and I’m sailing on it. What it taught me?
+
 You have to be prepared for a bad weather…..
+
 Rain will come
+
 You will experience storms and enourmous waves,
+
 Your boat will be damaged, and experinece wild forces
 
 but….
 
 You will love sunrises and sunsets, calm and peacfull drives when light wind blows.
-Waves will be addicting so much that when you are at ground you'll feel some wired longing at the back of your head. Harsh weather??? You will love it. Nothing wakes you up better than furious wave smash on your had with cold water.
+
+Waves will be addicting so much that when you are at ground you'll feel some wired longing at the back of your head. 
+
+Harsh weather??? You will love it. Nothing wakes you up better than furious wave smash on your had with cold water.
 
 ### Is it familiar for you?
 
@@ -31,7 +38,7 @@ Coding is my journey. The longest I have ever started and I really regret not ha
 Here You can find some stat of my Github account:
 
 
-[![Bartek's github stats](https://github-readme-stats.vercel.app/api?username=bartoszkobylinski&theme=solarized_dark)]
+![Bartek's github stats](https://github-readme-stats.vercel.app/api?username=bartoszkobylinski&theme=solarized_dark)
 
 I work mostly with Python but my focus is like old-times when there was no divides on front and backend side of software developing.
 I'm constantly looking place, projects when I can grew up with others member because I know I can learn a lot from them even if they are less experienced then me.
