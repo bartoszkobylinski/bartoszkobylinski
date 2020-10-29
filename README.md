@@ -31,13 +31,14 @@ Coding is my journey. The longest I have ever started and I really regret not ha
 Here You can find some stat of my Github account:
 
 
-[![Bartek's github stats](https://github-readme-stats.vercel.app/api?username=bartoszkobylinski&theme=solarized_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Bartek's github stats](https://github-readme-stats.vercel.app/api?username=bartoszkobylinski&theme=solarized_dark)]
 
 I work mostly with Python but my focus is like old-times when there was no divides on front and backend side of software developing.
 I'm constantly looking place, projects when I can grew up with others member because I know I can learn a lot from them even if they are less experienced then me.
 So if YOU would like to aske me about anything please reach me on:
 
 www.bartoszkobylinski.com
+
 www.icantocding.com
 
 <!--
