@@ -40,13 +40,14 @@ Here You can find some stat of my Github account:
 
 ![Bartek's github stats](https://github-readme-stats.vercel.app/api?username=bartoszkobylinski&theme=solarized_dark)
 
-I work mostly with Python but my focus is like old-times when there was no divides on front and backend side of software developing.
+I work mostly with Python but my focus is like old-times when there was no divisions on front and backend in software developing.
 I'm constantly looking place, projects when I can grew up with others member because I know I can learn a lot from them even if they are less experienced then me.
+
 So if YOU would like to aske me about anything please reach me on:
 
 www.bartoszkobylinski.com
 
-www.icantocding.com
+www.icantcoding.com
 
 <!--
 **bartoszkobylinski/bartoszkobylinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
